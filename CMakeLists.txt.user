@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
+<<<<<<< HEAD
 <!-- Written by QtCreator 4.12.2, 2022-08-03T18:03:38. -->
+=======
+<!-- Written by QtCreator 4.12.2, 2022-08-03T07:41:20. -->
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -54,7 +58,24 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.PluginSettings</variable>
+<<<<<<< HEAD
   <valuemap type="QVariantMap"/>
+=======
+  <valuemap type="QVariantMap">
+   <valuelist type="QVariantList" key="ClangCodeModel.CustomCommandLineKey"/>
+   <value type="bool" key="ClangCodeModel.UseGlobalConfig">true</value>
+   <value type="QString" key="ClangCodeModel.WarningConfigId">Builtin.Questionable</value>
+   <valuemap type="QVariantMap" key="ClangTools">
+    <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
+    <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
+    <value type="int" key="ClangTools.ParallelJobs">2</value>
+    <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
+    <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
+    <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
+    <value type="bool" key="ClangTools.UseGlobalSettings">true</value>
+   </valuemap>
+  </valuemap>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
  </data>
  <data>
   <variable>ProjectExplorer.Project.Target.0</variable>
@@ -74,7 +95,11 @@
      <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
     </valuelist>
     <value type="int" key="EnableQmlDebugging">2</value>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-scanf_gets_fgets-Desktop-Debug</value>
+=======
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-printf_scanf_stdio-Desktop-Debug</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.AdditionalArguments"></value>
@@ -118,7 +143,11 @@
      <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
     </valuelist>
     <value type="int" key="EnableQmlDebugging">2</value>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-scanf_gets_fgets-Desktop-Release</value>
+=======
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-printf_scanf_stdio-Desktop-Release</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.AdditionalArguments"></value>
@@ -162,7 +191,11 @@
      <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
     </valuelist>
     <value type="int" key="EnableQmlDebugging">2</value>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-scanf_gets_fgets-Desktop-RelWithDebInfo</value>
+=======
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-printf_scanf_stdio-Desktop-RelWithDebInfo</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.AdditionalArguments"></value>
@@ -206,7 +239,11 @@
      <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
     </valuelist>
     <value type="int" key="EnableQmlDebugging">2</value>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-scanf_gets_fgets-Desktop-MinSizeRel</value>
+=======
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/angellogan/CV_CPP_prac/projects_folder/build-printf_scanf_stdio-Desktop-MinSizeRel</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="QString" key="CMakeProjectManager.MakeStep.AdditionalArguments"></value>
@@ -316,19 +353,33 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.CustomExecutableRunConfiguration.Executable"></value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">ProjectExplorer.CustomExecutableRunConfiguration</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey"></value>
+=======
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">printf_scanf_stdio</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">CMakeProjectManager.CMakeRunConfiguration.printf_scanf_stdio</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">printf_scanf_stdio</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
+<<<<<<< HEAD
+=======
+    <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
     <value type="bool" key="RunConfiguration.UseMultiProcess">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
+<<<<<<< HEAD
     <value type="QString" key="RunConfiguration.WorkingDirectory.default"></value>
+=======
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/angellogan/CV_CPP_prac/projects_folder/build-printf_scanf_stdio-Desktop-Debug</value>
+>>>>>>> 94105d3737b0ba212d811d172dfeb8668e9085e8
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
