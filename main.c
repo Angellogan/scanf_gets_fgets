@@ -118,7 +118,6 @@ int main()
       char str3[50];
     int j =0;
 
-
     printf("Enter the string for getc \n");
 
     fp = fopen("..//datapath.txt","r");
